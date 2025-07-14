@@ -54,12 +54,12 @@ function prev() {
     />
     <div flex="~ items-center gap-3" fixed left-0 top-0 rounded-br-2rem p5 backdrop-blur-md>
       <div text-5xl>
-        🐃
+        😺
       </div>
       <div flex="~ col">
-        <a href="https://antfu.me" text-sm op50 hover:underline target="_blank">Anthony Fu's</a>
-        <a text-2xl href="https://github.com/antfu/yak-shaving-map" target="_blank" hover:underline>
-          Yak Map
+        <a href="https://blog.whff521.xyz/" text-sm op50 hover:underline target="_blank">AiRomance's</a>
+        <a text-2xl href="https://github.com/WHFF521/yak-shaving-map-yolo" target="_blank" hover:underline>
+          YOLO Learning Map
         </a>
       </div>
     </div>

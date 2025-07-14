@@ -22,7 +22,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Anthony Fu\'s Yak Map',
+      title: 'AiRomance\'s Yolo Learning Map',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
